@@ -1,0 +1,1 @@
+# Mini_Projects_In_AI
