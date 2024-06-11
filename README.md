@@ -41,7 +41,14 @@ Features: Splits data into training and test sets while stratifying by sentiment
 **Description:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, **MLflow**, Logistic Regression, TF-IDF.
 
 
+### 6.Fine-Tuning Llama 2 with QLoRA
+Description: This project focuses on fine-tuning the Llama 2 model using Quantized Low Rank Adaptation (QLoRA) in a Google Colab environment. The goal is to efficiently adapt large language models to specific tasks with minimal resource usage.
+Technologies: Python, QLoRA, Google Colab, Transformers, PyTorch, Hugging Face Datasets, BitsAndBytes.
 Contribution 💡
+
+
+
+
 Feel free to contribute, suggest improvements, or report issues! Let's collaborate to make these projects even better.
 
 Happy coding! 🚀🔥
