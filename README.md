@@ -1,4 +1,4 @@
-#Mini Projects Repository 🚀
+# Mini Projects Repository 🚀
 
 Welcome to my collection of mini projects! Below is a list of projects I've worked on, each aimed at exploring different aspects of machine learning and AI.
 
