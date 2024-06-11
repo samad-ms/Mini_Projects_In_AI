@@ -46,6 +46,10 @@ Description: This project focuses on fine-tuning the Llama 2 model using Quantiz
 Technologies: Python, QLoRA, Google Colab, Transformers, PyTorch, Hugging Face Datasets, BitsAndBytes.
 Contribution 💡
 
+### 7.MNIST Classification Project with Hydra
+Description: This project is a simple example of image classification using the MNIST dataset. The goal is to classify handwritten digits (0-9) using a ResNet model.
+Technologies: Python 3.x, PyTorch, torchvision, Hydra.
+(Hydra is a framework for elegantly configuring complex applications, including managing configuration files, command-line options, and environment variables, making it easier to build and maintain scalable and configurable software systems.)
 
 
 
