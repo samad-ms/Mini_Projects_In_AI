@@ -13,13 +13,13 @@ Application  : https://webchatai.streamlit.app/
 
 Report : https://abduls-organization-13.gitbook.io/abduls-portfolio/projects/webchatai
 
-Source Code: https://github.com/samad-ms/WebChatAI
+Repo: https://github.com/samad-ms/WebChatAI
 
 ## 2. Bangalore  Real Estate Price Prediction Website
 
 **Description:** Develop a real estate price prediction website using sklearn and linear regression with the Bangalore home prices dataset from Kaggle. Includes EDA, data cleaning, outlier detection, feature engineering, dimensionality reduction, hyperparameter tuning, k-fold cross-validation, Python Flask server, and a website with HTML/CSS/JavaScript. Predicts real estate prices based on user-input home details.
 
-Source Code: https://github.com/samad-ms/bengaluru-house-price-prediction
+Repo: https://github.com/samad-ms/bengaluru-house-price-prediction
 
 
 
