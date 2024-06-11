@@ -38,13 +38,15 @@ Repo: https://github.com/samad-ms/Resume_Screening_Assistance_AI
 
 Features: Splits data into training and test sets while stratifying by sentiment, uses TF-IDF Vectorizer to transform text data into numerical features, trains a logistic regression model with specified hyperparameters, evaluates the model using F1 score and visualizes performance with a confusion matrix, and logs parameters, metrics, and artifacts using MLflow for reproducibility and experiment tracking.
 
-**Description:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, **MLflow**, Logistic Regression, TF-IDF.
+**technologies:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, **MLflow**, Logistic Regression, TF-IDF.
+
+repo: https://github.com/samad-ms/sentiment_analysis_with_dvc
 
 
 ### 6.Fine-Tuning Llama 2 with QLoRA
 Description: This project focuses on fine-tuning the Llama 2 model using Quantized Low Rank Adaptation (QLoRA) in a Google Colab environment. The goal is to efficiently adapt large language models to specific tasks with minimal resource usage.
 Technologies: Python, QLoRA, Google Colab, Transformers, PyTorch, Hugging Face Datasets, BitsAndBytes.
-Contribution 💡
+repo:https://github.com/samad-ms/Fine_Tune_Llama_2
 
 ### 7.MNIST Classification Project with Hydra
 Description: This project is a simple example of image classification using the MNIST dataset. The goal is to classify handwritten digits (0-9) using a ResNet model.
