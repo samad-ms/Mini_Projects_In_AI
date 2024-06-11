@@ -50,6 +50,28 @@ Contribution 💡
 Description: This project is a simple example of image classification using the MNIST dataset. The goal is to classify handwritten digits (0-9) using a ResNet model.
 Technologies: Python 3.x, PyTorch, torchvision, Hydra.
 (Hydra is a framework for elegantly configuring complex applications, including managing configuration files, command-line options, and environment variables, making it easier to build and maintain scalable and configurable software systems.)
+repo:https://github.com/samad-ms/Mnist_classification_with_hydra
+
+### 8.Fire Weather Index (FWI) Prediction
+Description: Predicting the Fire Weather Index (FWI) using Ridge Regression. This model utilizes features like Temperature, RH, Ws, Rain, FFMC, DMC, DC, ISI, BUI, FWI, Classes, and Region. Ridge Regression is chosen for its ability to handle multicollinearity.
+
+Technologies: Python, Ridge Regression.
+repo: https://github.com/samad-ms/fwipredictor
+
+### 9. Chest Cancer Classification Project
+Description: Developed a Chest Cancer Classification project focusing on adenocarcinoma cancer, achieving 92% accuracy using the VGG16 model. Implemented within an MLOps framework (mlflow) with an end-to-end pipeline. Also, developed a user-friendly interface for the application.
+
+Technologies: Python, Deep Learning, MLOps, Docker, DVC, CI/CD, AWS, Flask, DagsHub.
+repo: https://github.com/samad-ms/Chest-Cancer-Classification-Using-mlflow-and-DVC
+
+### 10.Diabetes Prediction ML Classification Project
+Description: This project aims to predict diabetes based on health data, including features like pregnancies, glucose, blood pressure, and more. It involves data preprocessing, exploratory data analysis, model selection (Logistic Regression), and model deployment.
+repo : https://github.com/samad-ms/Diabetes-Prediction
+
+
+
+
+
 
 
 
