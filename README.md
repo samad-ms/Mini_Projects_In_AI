@@ -2,9 +2,9 @@
 
 Welcome to my collection of mini projects! Below is a list of projects I've worked on, each aimed at exploring different aspects of machine learning and AI.
 
-Projects Overview 📝
+## Projects Overview 📝
 
-1. **WebChatAI**
+### 1. WebChatAI
 **Description:** RAG application that uses LangChain and OpenAI GPT-3.5 Turbo model to create a conversational AI that interacts with websites.
 
 Functionality: Extracts information from a given website and give a relevant answers for user queries based on the extracted content.
