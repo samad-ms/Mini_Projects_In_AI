@@ -70,6 +70,20 @@ repo: https://github.com/samad-ms/Chest-Cancer-Classification-Using-mlflow-and-D
 Description: This project aims to predict diabetes based on health data, including features like pregnancies, glucose, blood pressure, and more. It involves data preprocessing, exploratory data analysis, model selection (Logistic Regression), and model deployment.
 repo : https://github.com/samad-ms/Diabetes-Prediction
 
+### 11. CsvAnalytistAI
+
+**Description:** Streamlit application designed to help users interact with their CSV data through natural language queries and generate visualizations.
+
+Functionality: Allows users to upload CSV files, ask questions in natural language, and generate graphs based on their queries. It also features an auto-summarizer for CSV data.
+
+Technologies: Python, Streamlit, OpenAI, LangChain.
+
+Application: [CsvAnalytistAI Live Demo](https://csv-analyst-ai.streamlit.app/)
+
+GitHub Repository: [CsvAnalytistAI GitHub Repo](https://github.com/samad-ms/CsvAnalistAI)
+
+Report: [CsvAnalytistAI Project Report](https://your-gitbook-url.com)
+
 
 
 
