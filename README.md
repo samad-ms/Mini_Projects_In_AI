@@ -8,7 +8,7 @@ Welcome to my collection of mini projects! Below is a list of projects I've work
 **Description:** RAG application that uses LangChain and OpenAI GPT-3.5 Turbo model to create a conversational AI that interacts with websites.
 
 Functionality: Extracts information from a given website and give a relevant answers for user queries based on the extracted content.
-Technologies: Python, Streamlit, Vector Database, OpenAI, LangChain.
+Technologies: Python, Streamlit, Vector Database, OpenAI, LangChain, lida ,agents
 
 Application  : https://webchatai.streamlit.app/
 
