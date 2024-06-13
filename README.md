@@ -78,11 +78,9 @@ Functionality: Allows users to upload CSV files, ask questions in natural langua
 
 Technologies: Python, Streamlit, OpenAI, LangChain.
 
-Application: [CsvAnalytistAI Live Demo](https://csv-analyst-ai.streamlit.app/)
-
 GitHub Repository: [CsvAnalytistAI GitHub Repo](https://github.com/samad-ms/CsvAnalistAI)
 
-Report: [CsvAnalytistAI Project Report](https://your-gitbook-url.com)
+Report: [CsvAnalytistAI Project Report](https://app.gitbook.com/o/Is9ZMqhWrvA14700Tl3O/s/rxN1idWN7CVOLPxxo0Di/~/changes/24/projects/csvanalystai-your-ai-data-analyst)
 
 
 
